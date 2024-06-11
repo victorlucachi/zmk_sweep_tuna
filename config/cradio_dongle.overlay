@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "enki42.dtsi"
+#include "cradio.dtsi"
 
 &kscan0 {
 	col-gpios
